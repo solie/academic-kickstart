@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Electronic Intelligence"
+  course = "BSc in Electronic Engineering"
   institution = "Diponegoro University"
   year = 2000
 
