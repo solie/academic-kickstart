@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "ICHIT", url = "//ic-hit.net" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "1745596.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "maz_solie@me.com"
   address = "No. 174, Section 2, Keelung Rd, Da’an District, Taipei City, 106"
   office_hours = "Monday, Wednesday, Thursday 10:15 to 16:00 or email for appointment"
