@@ -10,7 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mobile Apps",
+    "AI",
+    "Web/Mobile Apps",
     "Computational Linguistics",
     "Information Retrieval"
   ]
@@ -30,4 +31,4 @@ weight = 5
 
 # Biography
 
-Maz Solie is a Software Engineer in ICHIT Lab. His interests include web development, mobile apps and programmable matter. 
+Maz Solie is a Software Engineer in ICHIT Lab. His interests include AI, web development, mobile apps and programmable matter. 
