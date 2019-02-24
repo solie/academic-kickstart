@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Maz Solie is a Software Engineer in ICHIT Lab. His interests include AI, web development, mobile apps and programmable matter. 
+Maz Solie is a Software Engineer in ICHIT Lab. His interests include AI for health, web development, mobile apps and programmable matter. 
